@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+bpf_x86_bpf*
+bin/**
+
+bpf/vmlinux.h
